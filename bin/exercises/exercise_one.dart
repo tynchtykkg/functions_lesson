@@ -1,5 +1,5 @@
 void main() {
-  print(returnSqr(5));
+  print(returnSqr(25));
 }
 
 int returnSqr(int a) {
